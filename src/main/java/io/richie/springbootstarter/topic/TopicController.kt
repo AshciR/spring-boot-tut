@@ -1,4 +1,4 @@
-package io.richie.topic
+package io.richie.springbootstarter.topic
 
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController

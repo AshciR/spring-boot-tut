@@ -16,7 +16,7 @@ apply plugin: "kotlin-spring" // See https://kotlinlang.org/docs/reference/compi
 apply plugin: 'org.springframework.boot'
 
 jar {
-    baseName = 'gs-rest-service'
+    baseName = 'spring-boot-tut'
     version = '0.1.0'
 }
 

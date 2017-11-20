@@ -5,6 +5,7 @@
 #Gradle Files
 /.gradle
 /out
+/build
 
 #Compiled class file
 *.class
